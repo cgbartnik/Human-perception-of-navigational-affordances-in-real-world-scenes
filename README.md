@@ -1,6 +1,8 @@
 # A Human Perception of Navigational Affordances in Real-World Scenes
+
 *Clemens G. Bartnik & Iris I.A. Groen*
 *Video & Image Sense Lab, Institute for Informatics, University of Amsterdam, The Netherlands*
+--- 
 This repository contains the python code used for the ECVP Poster it contains code to visualize the used stimuli set and the reprsentational similarity analysis (RSA).
 
 
