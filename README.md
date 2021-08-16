@@ -1,0 +1,1 @@
+# Human-perception-of-navigational-affordances-in-real-world-scenes
