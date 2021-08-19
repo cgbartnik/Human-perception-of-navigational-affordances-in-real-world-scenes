@@ -17,11 +17,8 @@ In daily life, we move with ease through our immediate environment: We can choos
 
 
 
-## Google Colab version
-A complete version of the code with pre-installed packages can be found on Google Colaboratory.
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1uFKK00fDlxtTfBLNjLTpDl37Vs5HgGwo?usp=sharing)
-
+## Open notebook in jupyter nbviewer 
+[![Open jupyter nbviewer](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1uFKK00fDlxtTfBLNjLTpDl37Vs5HgGwo?usp=sharing)
 
 ## About the repo 
 
